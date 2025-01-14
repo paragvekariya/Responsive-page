@@ -27,7 +27,7 @@ font-family: "Poppins", Arial, sans-serif;
 }
 
 .nm2 {
-    font-size: 100px;
+    font-size: 90px;
     padding-left: 100px;
     padding-top: 10px;
     font-size: 48px;
@@ -37,7 +37,7 @@ font-family: "Poppins", Arial, sans-serif;
 }
 
 .nm3 {
-    font-size: 100px;
+    font-size: 90px;
     padding-left: 100px;
     padding-top: 10px;
     font-size: 48px;
@@ -54,7 +54,7 @@ font-family: "Poppins", Arial, sans-serif;
 }
 
 .img1 {
-height:500px;
+height:480px;
 width:500px;
 display: flex;
 max-width: 58.33333%;
