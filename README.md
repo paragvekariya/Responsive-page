@@ -1,2 +1,2 @@
-# page
-responsive page 
+
+responsive page for web page
