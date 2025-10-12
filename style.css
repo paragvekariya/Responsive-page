@@ -17,6 +17,7 @@ line-height: 1.5;
 font-size: 14px;
 font-family: "Poppins", Arial, sans-serif;
 }
+
 .h1{
     font-size: 18px;
     justify-items: left;
@@ -85,8 +86,8 @@ margin-top: -450px;
     border-radius: 21px;
     margin-left: 50px;
     transition: all .25s ease-out;
-  box-shadow: 0px 7px 12px 0px #02955ff;
-  animation: appear linear;
-  animation-timeline: view();
-  animation-range:entry 0% cover 40%;  
+    box-shadow: 0px 7px 12px 0px #02955ff;
+    animation: appear linear;
+    animation-timeline: view();
+    animation-range:entry 0% cover 40%;  
 }
