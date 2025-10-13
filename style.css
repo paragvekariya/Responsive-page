@@ -55,8 +55,8 @@ font-family: "Poppins", Arial, sans-serif;
 }
 
 .img1 {
-height:480px;
-width:500px;
+  height:480px;
+  width:500px;
 display: flex;
 max-width: 58.33333%;
 float: right;
